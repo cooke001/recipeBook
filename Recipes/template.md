@@ -1,8 +1,8 @@
 # Recipe Name
 ## Description
 ## Ingredients
-Ingredient | Measurement | Unit | Notes
-... | ... | ... | ...
+| Ingredient | Measurement | Unit | Notes |
+| ... | ... | ... | ... |
 ## Method
 1. chop
 2. boil
