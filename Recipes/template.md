@@ -1,6 +1,7 @@
 # Boiled Potatoes
 ## Description
 Boiled potatoes
+![alt text](template.jpg "Title")
 ## Ingredients
 | Ingredient | Measurement | Unit | Notes |
 | --- | --- | --- | --- |
