@@ -18,7 +18,7 @@ Boiled potatoes
 | Madras Curry Powder | 2 | tsp |
 | Curry Leaves | 10 | leaves | |
 | Brown Sugar | 2 | tbsp | |
-| Coriander | 1 | to taste |
+| Coriander | 1 | to taste | chopped |
 | Sesame Seeds | 2 | tsp | 
 
 ## Method
@@ -28,6 +28,7 @@ Boiled potatoes
 3. Add sugar and rest of spices, put hob on high heat.
 4. Add lentils, stir and bring to the boil.
 5. Simmer for 10 minutes.
+6. Serve in bowls and add chopped coriander.
 
 ## Source
 http://www.maunikagowardhan.co.uk/cook-in-a-curry/khatti-meethi-dal-sweet-sour-lentil-for-jamie-olivers-food-tube/
